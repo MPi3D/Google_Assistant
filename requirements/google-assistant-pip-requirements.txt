@@ -8,7 +8,7 @@ googletrans==2.2.0
 gTTS==2.0.0
 pafy==0.5.4
 psutil==5.4.5
-urllib3==1.22
+urllib3==1.24.2
 google-api-python-client==1.6.7
 requests==2.18.4
 python-vlc==3.0.102
